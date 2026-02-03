@@ -1,6 +1,5 @@
-# One-Shot Learning Approach for Underwater Inspection Image Classification
+# [ENG1133] Undergraduate Thesis: One-Shot Learning Approach for Underwater Inspection Image Classification
 
-# [ENG1133] Undergraduate Thesis
 * **Course:** ENG1133
 * **Semester:** 2025.2
 * **Supervisor:** Marco Aurélio Pacheco
